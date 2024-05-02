@@ -1,0 +1,29 @@
+
+body{
+    background:radial-gradient(circle closest-corner at right, #3f0079, #000000);
+    
+   height: 100vh;
+padding: 0; margin: 0;
+}
+.nav-link{
+
+    position: relative;
+}
+
+.nav-link:hover{
+    color: rgb(13, 110, 253) !important;
+  /* text-decoration:underline;*/
+    /* border-bottom: 20px solid red;*/
+}
+/*
+.nav-link::after{
+    content:'';
+    opacity: 0;
+    height: 3px;
+    width: 100%;
+    background-color: rgb(255, 43, 43);
+    position: absolute;
+    bottom: 16px;
+    left: 0;
+}*/
+
